@@ -1,0 +1,6 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <engine:Label text="MY GAME" name="game-title" style="font-size: 40px; -unity-font-style: bold; -unity-text-align: middle-center;" />
+    <engine:Button text="PLAY" name="play-button" style="font-size: 20px; -unity-font-style: bold; height: 50px;" />
+    <engine:Label text="Created by Saima Ahmed" name="credits-label" style="font-size: 16px; -unity-font-style: normal; -unity-text-align: upper-center;" />
+    <engine:Button text="QUIT" name="quit-button" style="height: 50px; font-size: 20px; -unity-font-style: bold;" />
+</engine:UXML>
